@@ -1,0 +1,4 @@
+dij3	https://pixabay.com/hu/photos/eper-gy%C3%BCm%C3%B6lcs-desszert-palacsinta-2572624/
+dij2	https://pixabay.com/hu/photos/palacsinta-eispalatschinken-j%C3%A9g-2372095/
+dij1	https://pixabay.com/hu/photos/desszert-%C3%A9tel-palacsinta-eper-3804693/
+hatter	https://pixabay.com/hu/photos/fa-strukt%C3%BAra-t%C3%A1bl%C3%A1k-deszka-%C3%A9vj%C3%A1rat-1794340/
